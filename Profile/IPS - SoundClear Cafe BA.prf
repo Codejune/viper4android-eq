@@ -1,0 +1,46 @@
+# ViPER4Android audio effect profile !
+# Created 2013-09-24   11:47:46
+
+profile_name=IPS - SoundClear Cafe BA
+
+viper4android.headphonefx.enable=boolean=true
+viper4android.speakerfx.enable=boolean=false
+viper4android.headphonefx.playbackgain.enable=boolean=true
+viper4android.headphonefx.fireq.enable=boolean=true
+viper4android.headphonefx.convolver.enable=boolean=false
+viper4android.headphonefx.colorfulmusic.enable=boolean=true
+viper4android.headphonefx.diffsurr.enable=boolean=false
+viper4android.headphonefx.vhs.enable=boolean=false
+viper4android.headphonefx.reverb.enable=boolean=true
+viper4android.headphonefx.dynamicsystem.enable=boolean=true
+viper4android.headphonefx.dynamicsystem.tube=boolean=false
+viper4android.headphonefx.fidelity.bass.enable=boolean=true
+viper4android.headphonefx.fidelity.clarity.enable=boolean=false
+viper4android.headphonefx.cure.enable=boolean=false
+viper4android.headphonefx.playbackgain.ratio=string=100
+viper4android.headphonefx.playbackgain.maxscaler=string=100
+viper4android.headphonefx.playbackgain.volume=string=70
+viper4android.headphonefx.fireq=string=custom
+viper4android.headphonefx.fireq.custom=string=3.4;2.5;1.3;1.3;0.5;-0.1;1.7;2.4;3.9;4.9;
+viper4android.headphonefx.convolver.kernel=string=/storage/emulated/0/ViPER4Android/Kernel/samsung_i9300_soundalive_13_cafe.irs
+viper4android.headphonefx.colorfulmusic.coeffs=string=180;650
+viper4android.headphonefx.colorfulmusic.midimage=string=170
+viper4android.headphonefx.diffsurr.delay=string=500
+viper4android.headphonefx.vhs.qual=string=0
+viper4android.headphonefx.reverb.roomsize=string=0
+viper4android.headphonefx.reverb.roomwidth=string=90
+viper4android.headphonefx.reverb.damp=string=20
+viper4android.headphonefx.reverb.wet=string=30
+viper4android.headphonefx.reverb.dry=string=50
+viper4android.headphonefx.dynamicsystem.coeffs=string=180;5800;55;80;10;70
+viper4android.headphonefx.dynamicsystem.bass=string=40
+viper4android.headphonefx.fidelity.bass.mode=string=0
+viper4android.headphonefx.fidelity.bass.freq=string=40
+viper4android.headphonefx.fidelity.bass.gain=string=100
+viper4android.headphonefx.fidelity.clarity.mode=string=2
+viper4android.headphonefx.fidelity.clarity.gain=string=0
+viper4android.headphonefx.cure.crossfeed=string=0
+viper4android.headphonefx.outvol=string=60
+viper4android.headphonefx.channelpan=string=0
+viper4android.headphonefx.limiter=string=100
+viper4android.speakerfx.limiter=string=100

@@ -1,0 +1,48 @@
+# ViPER4Android audio effect profile !
+# Created 2013-11-17   11:15:38
+
+profile_name=IPS - Power Surround2
+
+viper4android.headphonefx.enable=boolean=true
+viper4android.speakerfx.enable=boolean=false
+viper4android.speakerfx.spkopt.enable=boolean=false
+viper4android.headphonefx.playbackgain.enable=boolean=true
+viper4android.headphonefx.fireq.enable=boolean=true
+viper4android.headphonefx.convolver.enable=boolean=false
+viper4android.headphonefx.colorfulmusic.enable=boolean=true
+viper4android.headphonefx.diffsurr.enable=boolean=true
+viper4android.headphonefx.vhs.enable=boolean=false
+viper4android.headphonefx.reverb.enable=boolean=false
+viper4android.headphonefx.dynamicsystem.enable=boolean=true
+viper4android.headphonefx.dynamicsystem.tube=boolean=false
+viper4android.headphonefx.fidelity.bass.enable=boolean=true
+viper4android.headphonefx.fidelity.clarity.enable=boolean=false
+viper4android.headphonefx.cure.enable=boolean=false
+viper4android.headphonefx.playbackgain.ratio=string=100
+viper4android.headphonefx.playbackgain.maxscaler=string=100
+viper4android.headphonefx.playbackgain.volume=string=70
+viper4android.headphonefx.fireq=string=custom
+viper4android.headphonefx.fireq.custom=string=2.3;7.4;5.1;-0.9;0.0;1.7;1.9;4.1;0.3;1.1;
+viper4android.headphonefx.convolver.kernel=string=/storage/emulated/legacy/ViPER4Android/Kernel/Sony Xperia VPT Studio Re.irs
+viper4android.headphonefx.convolver.crosschannel=string=80
+viper4android.headphonefx.colorfulmusic.coeffs=string=180;650
+viper4android.headphonefx.colorfulmusic.midimage=string=170
+viper4android.headphonefx.diffsurr.delay=string=1000
+viper4android.headphonefx.vhs.qual=string=1
+viper4android.headphonefx.reverb.roomsize=string=10
+viper4android.headphonefx.reverb.roomwidth=string=100
+viper4android.headphonefx.reverb.damp=string=20
+viper4android.headphonefx.reverb.wet=string=10
+viper4android.headphonefx.reverb.dry=string=50
+viper4android.headphonefx.dynamicsystem.coeffs=string=180;5800;55;80;10;70
+viper4android.headphonefx.dynamicsystem.bass=string=30
+viper4android.headphonefx.fidelity.bass.mode=string=0
+viper4android.headphonefx.fidelity.bass.freq=string=100
+viper4android.headphonefx.fidelity.bass.gain=string=100
+viper4android.headphonefx.fidelity.clarity.mode=string=2
+viper4android.headphonefx.fidelity.clarity.gain=string=0
+viper4android.headphonefx.cure.crossfeed=string=0
+viper4android.headphonefx.outvol=string=70
+viper4android.headphonefx.channelpan=string=0
+viper4android.headphonefx.limiter=string=100
+viper4android.speakerfx.limiter=string=100
